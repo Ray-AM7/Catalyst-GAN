@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaTlCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07088862
+_cell_length_b   10.33872924
+_cell_length_c   7.07057992
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   106.65133073
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTlCl3
+_chemical_formula_sum   'Ca2 Tl2 Cl6'
+_cell_volume   285.10639359
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca1  1  0.00000000  0.50000000  0.00000000  1
+  Tl  Tl2  1  0.74016916  0.25000000  0.48327170  1
+  Tl  Tl3  1  0.25983084  0.75000000  0.51672830  1
+  Cl  Cl4  1  0.63207073  0.95281254  0.26475745  1
+  Cl  Cl5  1  0.36792927  0.45281254  0.73524255  1
+  Cl  Cl6  1  0.63207073  0.54718746  0.26475745  1
+  Cl  Cl7  1  0.36792927  0.04718746  0.73524255  1
+  Cl  Cl8  1  0.06417129  0.25000000  0.12796513  1
+  Cl  Cl9  1  0.93582871  0.75000000  0.87203487  1

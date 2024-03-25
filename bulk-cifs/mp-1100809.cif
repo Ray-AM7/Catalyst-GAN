@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Zr(CuCl3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05785421
+_cell_length_b   10.99052115
+_cell_length_c   11.12411558
+_cell_angle_alpha   118.20951535
+_cell_angle_beta   90.87744269
+_cell_angle_gamma   89.80803996
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr(CuCl3)2
+_chemical_formula_sum   'Zr3 Cu6 Cl18'
+_cell_volume   652.58070483
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.02299448  0.66839990  0.33567882  1
+  Zr  Zr1  1  0.49227512  0.99754830  0.99847776  1
+  Zr  Zr2  1  0.98865070  0.33335874  0.66226527  1
+  Cu  Cu3  1  0.58385892  0.60287512  0.40018292  1
+  Cu  Cu4  1  0.89958967  0.89768511  0.08523337  1
+  Cu  Cu5  1  0.42697926  0.75427064  0.24994084  1
+  Cu  Cu6  1  0.58272756  0.24383579  0.75970577  1
+  Cu  Cu7  1  0.09348088  0.09244732  0.90544635  1
+  Cu  Cu8  1  0.57459397  0.50954372  0.75924430  1
+  Cl  Cl9  1  0.26309019  0.20707936  0.10923888  1
+  Cl  Cl10  1  0.78139840  0.45852715  0.22506803  1
+  Cl  Cl11  1  0.25013405  0.55607073  0.12481109  1
+  Cl  Cl12  1  0.27256076  0.88306337  0.10687688  1
+  Cl  Cl13  1  0.78747168  0.77780889  0.21762209  1
+  Cl  Cl14  1  0.24670945  0.56225579  0.44794500  1
+  Cl  Cl15  1  0.74071152  0.10320299  0.20240128  1
+  Cl  Cl16  1  0.25088702  0.88410852  0.44109047  1
+  Cl  Cl17  1  0.78328421  0.78466650  0.53945105  1
+  Cl  Cl18  1  0.23169022  0.24080507  0.47743974  1
+  Cl  Cl19  1  0.75250388  0.12434035  0.56251405  1
+  Cl  Cl20  1  0.25755186  0.88826777  0.78824233  1
+  Cl  Cl21  1  0.74779596  0.44648475  0.56306637  1
+  Cl  Cl22  1  0.21736442  0.22438899  0.78528388  1
+  Cl  Cl23  1  0.72171129  0.10678542  0.88640840  1
+  Cl  Cl24  1  0.76591983  0.44281021  0.89326694  1
+  Cl  Cl25  1  0.21472760  0.55060819  0.78587990  1
+  Cl  Cl26  1  0.72393911  0.77875833  0.88351523  1

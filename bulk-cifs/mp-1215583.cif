@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zn4CoSe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.36463000
+_cell_length_b   4.04720800
+_cell_length_c   9.87281514
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   119.43778300
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn4CoSe5
+_chemical_formula_sum   'Zn8 Co2 Se10'
+_cell_volume   465.06828530
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.90077400  0.50000000  0.60238400  1
+  Zn  Zn1  1  0.79813800  0.00000000  0.19865400  1
+  Zn  Zn2  1  0.20099000  0.00000000  0.80165100  1
+  Zn  Zn3  1  0.09940500  0.50000000  0.39641700  1
+  Zn  Zn4  1  0.40077400  0.00000000  0.60238400  1
+  Zn  Zn5  1  0.29813800  0.50000000  0.19865400  1
+  Zn  Zn6  1  0.70099000  0.50000000  0.80165100  1
+  Zn  Zn7  1  0.59940500  0.00000000  0.39641700  1
+  Co  Co8  1  0.99992300  0.00000000  0.99937800  1
+  Co  Co9  1  0.49992300  0.50000000  0.99937800  1
+  Se  Se10  1  0.19968400  0.00000000  0.54987200  1
+  Se  Se11  1  0.59558200  0.00000000  0.14282900  1
+  Se  Se12  1  0.00133200  0.00000000  0.75694700  1
+  Se  Se13  1  0.89929300  0.50000000  0.35017500  1
+  Se  Se14  1  0.30487900  0.50000000  0.95169100  1
+  Se  Se15  1  0.69968400  0.50000000  0.54987200  1
+  Se  Se16  1  0.09558200  0.50000000  0.14282900  1
+  Se  Se17  1  0.50133200  0.50000000  0.75694700  1
+  Se  Se18  1  0.39929300  0.00000000  0.35017500  1
+  Se  Se19  1  0.80487900  0.00000000  0.95169100  1
